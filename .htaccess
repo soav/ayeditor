@@ -1,0 +1,25 @@
+Options +FollowSymLinks
+
+IndexIgnore */*
+RewriteEngine on
+
+ErrorDocument 403 /tracker/user/settings/
+ErrorDocument 404 /tracker/user/settings/
+
+RewriteCond %{THE_REQUEST} ^GET.*index\.php [NC]
+RewriteRule (.*?)index\.php/*(.*) /$1$2 [R=301,L]
+RewriteCond %{THE_REQUEST} ^GET.*index\.html [NC]
+RewriteRule (.*?)index\.html/*(.*) /$1$2 [R=301,L]
+RewriteCond %{THE_REQUEST} ^GET.*index\.htm [NC]
+RewriteRule (.*?)index\.htm/*(.*) /$1$2 [R=301,L]
+
+RewriteCond %{REQUEST_URI} (.*/[^/.]+)($|\?)
+RewriteRule .* %1/ [R=301,L]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteRule . /tracker/index.php
+
+RewriteEngine On
+RewriteRule \.git - [F,L]

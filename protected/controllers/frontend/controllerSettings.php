@@ -1,0 +1,6 @@
+<?
+class controllerSettings extends AppController {
+
+
+
+}

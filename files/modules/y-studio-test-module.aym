@@ -1,0 +1,3305 @@
+{
+	"moduleName": "",
+	"moduleAuthor": "",
+	"moduleChipQty": 1,
+	"moduleSpeed": 3,
+	"moduleNoteTableId": 0,
+	"moduleLoop": 0,
+	"samples": {
+		"1": {
+			"name": "smpl_01",
+			"size": 1,
+			"sizeAttack": 1,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [
+				{
+					"mixT": 1,
+					"mixN": 0,
+					"mixE": 0,
+					"mixO": 1,
+					"envPer": 0,
+					"envForm": 0,
+					"envSlide": 0,
+					"envSlideType": 0,
+					"noisePer": 0,
+					"noiseSlide": 0,
+					"noiseSlideType": 0,
+					"note": 0,
+					"noteOctave": 0,
+					"noteSlide": 0,
+					"noteSlideType": 0,
+					"volume": 0
+				}
+			]
+		},
+		"2": {
+			"name": "smpl_02",
+			"size": 1,
+			"sizeAttack": 1,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [
+				{
+					"mixT": 1,
+					"mixN": 0,
+					"mixE": 0,
+					"mixO": 1,
+					"envPer": 0,
+					"envForm": 0,
+					"envSlide": 0,
+					"envSlideType": 0,
+					"noisePer": 0,
+					"noiseSlide": 0,
+					"noiseSlideType": 0,
+					"note": 0,
+					"noteOctave": 0,
+					"noteSlide": 0,
+					"noteSlideType": 0,
+					"volume": 0
+				}
+			]
+		},
+		"3": {
+			"name": "smpl_03",
+			"size": 1,
+			"sizeAttack": 1,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [
+				{
+					"mixT": 1,
+					"mixN": 0,
+					"mixE": 0,
+					"mixO": 1,
+					"envPer": 0,
+					"envForm": 0,
+					"envSlide": 0,
+					"envSlideType": 0,
+					"noisePer": 0,
+					"noiseSlide": 0,
+					"noiseSlideType": 0,
+					"note": 0,
+					"noteOctave": 0,
+					"noteSlide": 0,
+					"noteSlideType": 0,
+					"volume": 0
+				}
+			]
+		},
+		"4": {
+			"name": "smpl_04",
+			"size": 1,
+			"sizeAttack": 1,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [
+				{
+					"mixT": 1,
+					"mixN": 0,
+					"mixE": 0,
+					"mixO": 1,
+					"envPer": 0,
+					"envForm": 0,
+					"envSlide": 0,
+					"envSlideType": 0,
+					"noisePer": 0,
+					"noiseSlide": 0,
+					"noiseSlideType": 0,
+					"note": 0,
+					"noteOctave": 0,
+					"noteSlide": 0,
+					"noteSlideType": 0,
+					"volume": 0
+				}
+			]
+		},
+		"5": {
+			"name": "smpl_05",
+			"size": 1,
+			"sizeAttack": 1,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [
+				{
+					"mixT": 1,
+					"mixN": 0,
+					"mixE": 0,
+					"mixO": 1,
+					"envPer": 0,
+					"envForm": 0,
+					"envSlide": 0,
+					"envSlideType": 0,
+					"noisePer": 0,
+					"noiseSlide": 0,
+					"noiseSlideType": 0,
+					"note": 0,
+					"noteOctave": 0,
+					"noteSlide": 0,
+					"noteSlideType": 0,
+					"volume": 0
+				}
+			]
+		},
+		"6": {
+			"name": "smpl_06",
+			"size": 1,
+			"sizeAttack": 1,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [
+				{
+					"mixT": 1,
+					"mixN": 0,
+					"mixE": 0,
+					"mixO": 1,
+					"envPer": 0,
+					"envForm": 0,
+					"envSlide": 0,
+					"envSlideType": 0,
+					"noisePer": 0,
+					"noiseSlide": 0,
+					"noiseSlideType": 0,
+					"note": 0,
+					"noteOctave": 0,
+					"noteSlide": 0,
+					"noteSlideType": 0,
+					"volume": 0
+				}
+			]
+		},
+		"7": {
+			"name": "smpl_07",
+			"size": 1,
+			"sizeAttack": 1,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [
+				{
+					"mixT": 1,
+					"mixN": 0,
+					"mixE": 0,
+					"mixO": 1,
+					"envPer": 0,
+					"envForm": 0,
+					"envSlide": 0,
+					"envSlideType": 0,
+					"noisePer": 0,
+					"noiseSlide": 0,
+					"noiseSlideType": 0,
+					"note": 0,
+					"noteOctave": 0,
+					"noteSlide": 0,
+					"noteSlideType": 0,
+					"volume": 0
+				}
+			]
+		},
+		"8": {
+			"name": "smpl_08",
+			"size": 1,
+			"sizeAttack": 1,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [
+				{
+					"mixT": 1,
+					"mixN": 0,
+					"mixE": 0,
+					"mixO": 1,
+					"envPer": 0,
+					"envForm": 0,
+					"envSlide": 0,
+					"envSlideType": 0,
+					"noisePer": 0,
+					"noiseSlide": 0,
+					"noiseSlideType": 0,
+					"note": 0,
+					"noteOctave": 0,
+					"noteSlide": 0,
+					"noteSlideType": 0,
+					"volume": 0
+				}
+			]
+		},
+		"9": {
+			"name": "smpl_09",
+			"size": 1,
+			"sizeAttack": 1,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [
+				{
+					"mixT": 1,
+					"mixN": 0,
+					"mixE": 0,
+					"mixO": 1,
+					"envPer": 0,
+					"envForm": 0,
+					"envSlide": 0,
+					"envSlideType": 0,
+					"noisePer": 0,
+					"noiseSlide": 0,
+					"noiseSlideType": 0,
+					"note": 0,
+					"noteOctave": 0,
+					"noteSlide": 0,
+					"noteSlideType": 0,
+					"volume": 0
+				}
+			]
+		},
+		"10": {
+			"name": "smpl_10",
+			"size": 1,
+			"sizeAttack": 1,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [
+				{
+					"mixT": 1,
+					"mixN": 0,
+					"mixE": 0,
+					"mixO": 1,
+					"envPer": 0,
+					"envForm": 0,
+					"envSlide": 0,
+					"envSlideType": 0,
+					"noisePer": 0,
+					"noiseSlide": 0,
+					"noiseSlideType": 0,
+					"note": 0,
+					"noteOctave": 0,
+					"noteSlide": 0,
+					"noteSlideType": 0,
+					"volume": 0
+				}
+			]
+		},
+		"11": {
+			"name": "smpl_11",
+			"size": 1,
+			"sizeAttack": 1,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [
+				{
+					"mixT": 1,
+					"mixN": 0,
+					"mixE": 0,
+					"mixO": 1,
+					"envPer": 0,
+					"envForm": 0,
+					"envSlide": 0,
+					"envSlideType": 0,
+					"noisePer": 0,
+					"noiseSlide": 0,
+					"noiseSlideType": 0,
+					"note": 0,
+					"noteOctave": 0,
+					"noteSlide": 0,
+					"noteSlideType": 0,
+					"volume": 0
+				}
+			]
+		},
+		"12": {
+			"name": "smpl_12",
+			"size": 1,
+			"sizeAttack": 1,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [
+				{
+					"mixT": 1,
+					"mixN": 0,
+					"mixE": 0,
+					"mixO": 1,
+					"envPer": 0,
+					"envForm": 0,
+					"envSlide": 0,
+					"envSlideType": 0,
+					"noisePer": 0,
+					"noiseSlide": 0,
+					"noiseSlideType": 0,
+					"note": 0,
+					"noteOctave": 0,
+					"noteSlide": 0,
+					"noteSlideType": 0,
+					"volume": 0
+				}
+			]
+		},
+		"13": {
+			"name": "smpl_13",
+			"size": 1,
+			"sizeAttack": 1,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [
+				{
+					"mixT": 1,
+					"mixN": 0,
+					"mixE": 0,
+					"mixO": 1,
+					"envPer": 0,
+					"envForm": 0,
+					"envSlide": 0,
+					"envSlideType": 0,
+					"noisePer": 0,
+					"noiseSlide": 0,
+					"noiseSlideType": 0,
+					"note": 0,
+					"noteOctave": 0,
+					"noteSlide": 0,
+					"noteSlideType": 0,
+					"volume": 0
+				}
+			]
+		},
+		"14": {
+			"name": "smpl_14",
+			"size": 1,
+			"sizeAttack": 1,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [
+				{
+					"mixT": 1,
+					"mixN": 0,
+					"mixE": 0,
+					"mixO": 1,
+					"envPer": 0,
+					"envForm": 0,
+					"envSlide": 0,
+					"envSlideType": 0,
+					"noisePer": 0,
+					"noiseSlide": 0,
+					"noiseSlideType": 0,
+					"note": 0,
+					"noteOctave": 0,
+					"noteSlide": 0,
+					"noteSlideType": 0,
+					"volume": 0
+				}
+			]
+		},
+		"15": {
+			"name": "smpl_15",
+			"size": 1,
+			"sizeAttack": 1,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [
+				{
+					"mixT": 1,
+					"mixN": 0,
+					"mixE": 0,
+					"mixO": 1,
+					"envPer": 0,
+					"envForm": 0,
+					"envSlide": 0,
+					"envSlideType": 0,
+					"noisePer": 0,
+					"noiseSlide": 0,
+					"noiseSlideType": 0,
+					"note": 0,
+					"noteOctave": 0,
+					"noteSlide": 0,
+					"noteSlideType": 0,
+					"volume": 0
+				}
+			]
+		},
+		"16": {
+			"name": "smpl_16",
+			"size": 1,
+			"sizeAttack": 1,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [
+				{
+					"mixT": 1,
+					"mixN": 0,
+					"mixE": 0,
+					"mixO": 1,
+					"envPer": 0,
+					"envForm": 0,
+					"envSlide": 0,
+					"envSlideType": 0,
+					"noisePer": 0,
+					"noiseSlide": 0,
+					"noiseSlideType": 0,
+					"note": 0,
+					"noteOctave": 0,
+					"noteSlide": 0,
+					"noteSlideType": 0,
+					"volume": 0
+				}
+			]
+		},
+		"17": {
+			"name": "smpl_17",
+			"size": 1,
+			"sizeAttack": 1,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [
+				{
+					"mixT": 1,
+					"mixN": 0,
+					"mixE": 0,
+					"mixO": 1,
+					"envPer": 0,
+					"envForm": 0,
+					"envSlide": 0,
+					"envSlideType": 0,
+					"noisePer": 0,
+					"noiseSlide": 0,
+					"noiseSlideType": 0,
+					"note": 0,
+					"noteOctave": 0,
+					"noteSlide": 0,
+					"noteSlideType": 0,
+					"volume": 0
+				}
+			]
+		},
+		"18": {
+			"name": "smpl_18",
+			"size": 1,
+			"sizeAttack": 1,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [
+				{
+					"mixT": 1,
+					"mixN": 0,
+					"mixE": 0,
+					"mixO": 1,
+					"envPer": 0,
+					"envForm": 0,
+					"envSlide": 0,
+					"envSlideType": 0,
+					"noisePer": 0,
+					"noiseSlide": 0,
+					"noiseSlideType": 0,
+					"note": 0,
+					"noteOctave": 0,
+					"noteSlide": 0,
+					"noteSlideType": 0,
+					"volume": 0
+				}
+			]
+		},
+		"19": {
+			"name": "smpl_19",
+			"size": 1,
+			"sizeAttack": 1,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [
+				{
+					"mixT": 1,
+					"mixN": 0,
+					"mixE": 0,
+					"mixO": 1,
+					"envPer": 0,
+					"envForm": 0,
+					"envSlide": 0,
+					"envSlideType": 0,
+					"noisePer": 0,
+					"noiseSlide": 0,
+					"noiseSlideType": 0,
+					"note": 0,
+					"noteOctave": 0,
+					"noteSlide": 0,
+					"noteSlideType": 0,
+					"volume": 0
+				}
+			]
+		},
+		"20": {
+			"name": "smpl_20",
+			"size": 1,
+			"sizeAttack": 1,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [
+				{
+					"mixT": 1,
+					"mixN": 0,
+					"mixE": 0,
+					"mixO": 1,
+					"envPer": 0,
+					"envForm": 0,
+					"envSlide": 0,
+					"envSlideType": 0,
+					"noisePer": 0,
+					"noiseSlide": 0,
+					"noiseSlideType": 0,
+					"note": 0,
+					"noteOctave": 0,
+					"noteSlide": 0,
+					"noteSlideType": 0,
+					"volume": 0
+				}
+			]
+		},
+		"21": {
+			"name": "smpl_21",
+			"size": 1,
+			"sizeAttack": 1,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [
+				{
+					"mixT": 1,
+					"mixN": 0,
+					"mixE": 0,
+					"mixO": 1,
+					"envPer": 0,
+					"envForm": 0,
+					"envSlide": 0,
+					"envSlideType": 0,
+					"noisePer": 0,
+					"noiseSlide": 0,
+					"noiseSlideType": 0,
+					"note": 0,
+					"noteOctave": 0,
+					"noteSlide": 0,
+					"noteSlideType": 0,
+					"volume": 0
+				}
+			]
+		},
+		"22": {
+			"name": "smpl_22",
+			"size": 1,
+			"sizeAttack": 1,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [
+				{
+					"mixT": 1,
+					"mixN": 0,
+					"mixE": 0,
+					"mixO": 1,
+					"envPer": 0,
+					"envForm": 0,
+					"envSlide": 0,
+					"envSlideType": 0,
+					"noisePer": 0,
+					"noiseSlide": 0,
+					"noiseSlideType": 0,
+					"note": 0,
+					"noteOctave": 0,
+					"noteSlide": 0,
+					"noteSlideType": 0,
+					"volume": 0
+				}
+			]
+		},
+		"23": {
+			"name": "smpl_23",
+			"size": 1,
+			"sizeAttack": 1,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [
+				{
+					"mixT": 1,
+					"mixN": 0,
+					"mixE": 0,
+					"mixO": 1,
+					"envPer": 0,
+					"envForm": 0,
+					"envSlide": 0,
+					"envSlideType": 0,
+					"noisePer": 0,
+					"noiseSlide": 0,
+					"noiseSlideType": 0,
+					"note": 0,
+					"noteOctave": 0,
+					"noteSlide": 0,
+					"noteSlideType": 0,
+					"volume": 0
+				}
+			]
+		},
+		"24": {
+			"name": "smpl_24",
+			"size": 1,
+			"sizeAttack": 1,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [
+				{
+					"mixT": 1,
+					"mixN": 0,
+					"mixE": 0,
+					"mixO": 1,
+					"envPer": 0,
+					"envForm": 0,
+					"envSlide": 0,
+					"envSlideType": 0,
+					"noisePer": 0,
+					"noiseSlide": 0,
+					"noiseSlideType": 0,
+					"note": 0,
+					"noteOctave": 0,
+					"noteSlide": 0,
+					"noteSlideType": 0,
+					"volume": 0
+				}
+			]
+		},
+		"25": {
+			"name": "smpl_25",
+			"size": 1,
+			"sizeAttack": 1,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [
+				{
+					"mixT": 1,
+					"mixN": 0,
+					"mixE": 0,
+					"mixO": 1,
+					"envPer": 0,
+					"envForm": 0,
+					"envSlide": 0,
+					"envSlideType": 0,
+					"noisePer": 0,
+					"noiseSlide": 0,
+					"noiseSlideType": 0,
+					"note": 0,
+					"noteOctave": 0,
+					"noteSlide": 0,
+					"noteSlideType": 0,
+					"volume": 0
+				}
+			]
+		},
+		"26": {
+			"name": "smpl_26",
+			"size": 1,
+			"sizeAttack": 1,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [
+				{
+					"mixT": 1,
+					"mixN": 0,
+					"mixE": 0,
+					"mixO": 1,
+					"envPer": 0,
+					"envForm": 0,
+					"envSlide": 0,
+					"envSlideType": 0,
+					"noisePer": 0,
+					"noiseSlide": 0,
+					"noiseSlideType": 0,
+					"note": 0,
+					"noteOctave": 0,
+					"noteSlide": 0,
+					"noteSlideType": 0,
+					"volume": 0
+				}
+			]
+		},
+		"27": {
+			"name": "smpl_27",
+			"size": 1,
+			"sizeAttack": 1,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [
+				{
+					"mixT": 1,
+					"mixN": 0,
+					"mixE": 0,
+					"mixO": 1,
+					"envPer": 0,
+					"envForm": 0,
+					"envSlide": 0,
+					"envSlideType": 0,
+					"noisePer": 0,
+					"noiseSlide": 0,
+					"noiseSlideType": 0,
+					"note": 0,
+					"noteOctave": 0,
+					"noteSlide": 0,
+					"noteSlideType": 0,
+					"volume": 0
+				}
+			]
+		},
+		"28": {
+			"name": "smpl_28",
+			"size": 1,
+			"sizeAttack": 1,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [
+				{
+					"mixT": 1,
+					"mixN": 0,
+					"mixE": 0,
+					"mixO": 1,
+					"envPer": 0,
+					"envForm": 0,
+					"envSlide": 0,
+					"envSlideType": 0,
+					"noisePer": 0,
+					"noiseSlide": 0,
+					"noiseSlideType": 0,
+					"note": 0,
+					"noteOctave": 0,
+					"noteSlide": 0,
+					"noteSlideType": 0,
+					"volume": 0
+				}
+			]
+		},
+		"29": {
+			"name": "smpl_29",
+			"size": 1,
+			"sizeAttack": 1,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [
+				{
+					"mixT": 1,
+					"mixN": 0,
+					"mixE": 0,
+					"mixO": 1,
+					"envPer": 0,
+					"envForm": 0,
+					"envSlide": 0,
+					"envSlideType": 0,
+					"noisePer": 0,
+					"noiseSlide": 0,
+					"noiseSlideType": 0,
+					"note": 0,
+					"noteOctave": 0,
+					"noteSlide": 0,
+					"noteSlideType": 0,
+					"volume": 0
+				}
+			]
+		},
+		"30": {
+			"name": "smpl_30",
+			"size": 1,
+			"sizeAttack": 1,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [
+				{
+					"mixT": 1,
+					"mixN": 0,
+					"mixE": 0,
+					"mixO": 1,
+					"envPer": 0,
+					"envForm": 0,
+					"envSlide": 0,
+					"envSlideType": 0,
+					"noisePer": 0,
+					"noiseSlide": 0,
+					"noiseSlideType": 0,
+					"note": 0,
+					"noteOctave": 0,
+					"noteSlide": 0,
+					"noteSlideType": 0,
+					"volume": 0
+				}
+			]
+		},
+		"31": {
+			"name": "smpl_31",
+			"size": 1,
+			"sizeAttack": 1,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [
+				{
+					"mixT": 1,
+					"mixN": 0,
+					"mixE": 0,
+					"mixO": 1,
+					"envPer": 0,
+					"envForm": 0,
+					"envSlide": 0,
+					"envSlideType": 0,
+					"noisePer": 0,
+					"noiseSlide": 0,
+					"noiseSlideType": 0,
+					"note": 0,
+					"noteOctave": 0,
+					"noteSlide": 0,
+					"noteSlideType": 0,
+					"volume": 0
+				}
+			]
+		},
+		"32": {
+			"name": "smpl_32",
+			"size": 1,
+			"sizeAttack": 1,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [
+				{
+					"mixT": 1,
+					"mixN": 0,
+					"mixE": 0,
+					"mixO": 1,
+					"envPer": 0,
+					"envForm": 0,
+					"envSlide": 0,
+					"envSlideType": 0,
+					"noisePer": 0,
+					"noiseSlide": 0,
+					"noiseSlideType": 0,
+					"note": 0,
+					"noteOctave": 0,
+					"noteSlide": 0,
+					"noteSlideType": 0,
+					"volume": 0
+				}
+			]
+		},
+		"33": {
+			"name": "smpl_33",
+			"size": 1,
+			"sizeAttack": 1,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [
+				{
+					"mixT": 1,
+					"mixN": 0,
+					"mixE": 0,
+					"mixO": 1,
+					"envPer": 0,
+					"envForm": 0,
+					"envSlide": 0,
+					"envSlideType": 0,
+					"noisePer": 0,
+					"noiseSlide": 0,
+					"noiseSlideType": 0,
+					"note": 0,
+					"noteOctave": 0,
+					"noteSlide": 0,
+					"noteSlideType": 0,
+					"volume": 0
+				}
+			]
+		},
+		"34": {
+			"name": "smpl_34",
+			"size": 1,
+			"sizeAttack": 1,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [
+				{
+					"mixT": 1,
+					"mixN": 0,
+					"mixE": 0,
+					"mixO": 1,
+					"envPer": 0,
+					"envForm": 0,
+					"envSlide": 0,
+					"envSlideType": 0,
+					"noisePer": 0,
+					"noiseSlide": 0,
+					"noiseSlideType": 0,
+					"note": 0,
+					"noteOctave": 0,
+					"noteSlide": 0,
+					"noteSlideType": 0,
+					"volume": 0
+				}
+			]
+		},
+		"35": {
+			"name": "smpl_35",
+			"size": 1,
+			"sizeAttack": 1,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [
+				{
+					"mixT": 1,
+					"mixN": 0,
+					"mixE": 0,
+					"mixO": 1,
+					"envPer": 0,
+					"envForm": 0,
+					"envSlide": 0,
+					"envSlideType": 0,
+					"noisePer": 0,
+					"noiseSlide": 0,
+					"noiseSlideType": 0,
+					"note": 0,
+					"noteOctave": 0,
+					"noteSlide": 0,
+					"noteSlideType": 0,
+					"volume": 0
+				}
+			]
+		}
+	},
+	"ornaments": {
+		"1": {
+			"size": 0,
+			"sizeAttack": 0,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [],
+			"name": "orn_01"
+		},
+		"2": {
+			"size": 0,
+			"sizeAttack": 0,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [],
+			"name": "orn_02"
+		},
+		"3": {
+			"size": 0,
+			"sizeAttack": 0,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [],
+			"name": "orn_03"
+		},
+		"4": {
+			"size": 0,
+			"sizeAttack": 0,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [],
+			"name": "orn_04"
+		},
+		"5": {
+			"size": 0,
+			"sizeAttack": 0,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [],
+			"name": "orn_05"
+		},
+		"6": {
+			"size": 0,
+			"sizeAttack": 0,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [],
+			"name": "orn_06"
+		},
+		"7": {
+			"size": 0,
+			"sizeAttack": 0,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [],
+			"name": "orn_07"
+		},
+		"8": {
+			"size": 0,
+			"sizeAttack": 0,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [],
+			"name": "orn_08"
+		},
+		"9": {
+			"size": 0,
+			"sizeAttack": 0,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [],
+			"name": "orn_09"
+		},
+		"10": {
+			"size": 0,
+			"sizeAttack": 0,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [],
+			"name": "orn_10"
+		},
+		"11": {
+			"size": 0,
+			"sizeAttack": 0,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [],
+			"name": "orn_11"
+		},
+		"12": {
+			"size": 0,
+			"sizeAttack": 0,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [],
+			"name": "orn_12"
+		},
+		"13": {
+			"size": 0,
+			"sizeAttack": 0,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [],
+			"name": "orn_13"
+		},
+		"14": {
+			"size": 0,
+			"sizeAttack": 0,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [],
+			"name": "orn_14"
+		},
+		"15": {
+			"size": 0,
+			"sizeAttack": 0,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [],
+			"name": "orn_15"
+		},
+		"16": {
+			"size": 0,
+			"sizeAttack": 0,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [],
+			"name": "orn_16"
+		},
+		"17": {
+			"size": 0,
+			"sizeAttack": 0,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [],
+			"name": "orn_17"
+		},
+		"18": {
+			"size": 0,
+			"sizeAttack": 0,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [],
+			"name": "orn_18"
+		},
+		"19": {
+			"size": 0,
+			"sizeAttack": 0,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [],
+			"name": "orn_19"
+		},
+		"20": {
+			"size": 0,
+			"sizeAttack": 0,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [],
+			"name": "orn_20"
+		},
+		"21": {
+			"size": 0,
+			"sizeAttack": 0,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [],
+			"name": "orn_21"
+		},
+		"22": {
+			"size": 0,
+			"sizeAttack": 0,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [],
+			"name": "orn_22"
+		},
+		"23": {
+			"size": 0,
+			"sizeAttack": 0,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [],
+			"name": "orn_23"
+		},
+		"24": {
+			"size": 0,
+			"sizeAttack": 0,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [],
+			"name": "orn_24"
+		},
+		"25": {
+			"size": 0,
+			"sizeAttack": 0,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [],
+			"name": "orn_25"
+		},
+		"26": {
+			"size": 0,
+			"sizeAttack": 0,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [],
+			"name": "orn_26"
+		},
+		"27": {
+			"size": 0,
+			"sizeAttack": 0,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [],
+			"name": "orn_27"
+		},
+		"28": {
+			"size": 0,
+			"sizeAttack": 0,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [],
+			"name": "orn_28"
+		},
+		"29": {
+			"size": 0,
+			"sizeAttack": 0,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [],
+			"name": "orn_29"
+		},
+		"30": {
+			"size": 0,
+			"sizeAttack": 0,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [],
+			"name": "orn_30"
+		},
+		"31": {
+			"size": 0,
+			"sizeAttack": 0,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [],
+			"name": "orn_31"
+		},
+		"32": {
+			"size": 0,
+			"sizeAttack": 0,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [],
+			"name": "orn_32"
+		},
+		"33": {
+			"size": 0,
+			"sizeAttack": 0,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [],
+			"name": "orn_33"
+		},
+		"34": {
+			"size": 0,
+			"sizeAttack": 0,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [],
+			"name": "orn_34"
+		},
+		"35": {
+			"size": 0,
+			"sizeAttack": 0,
+			"sizeSuspend": 0,
+			"sizeRelease": 0,
+			"sizeLoop2": 0,
+			"positions": [],
+			"name": "orn_35"
+		}
+	},
+	"track": [
+		0
+	],
+	"patterns": [
+		{
+			"name": "NEW",
+			"size": 64,
+			"positions": [
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				},
+				{
+					"envPer": 0,
+					"envForm": 0,
+					"noisePer": 0,
+					"channels": [
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						},
+						{
+							"note": 0,
+							"noteOctave": 0,
+							"instrument": 0,
+							"sample": 0,
+							"ornament": 0,
+							"volume": 0
+						}
+					]
+				}
+			]
+		}
+	],
+	"channelEnv": [],
+	"channelNoise": [],
+	"channelTone": []
+}
